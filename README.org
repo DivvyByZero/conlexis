@@ -1,0 +1,9 @@
+#+title: conlexis
+#+description: Dependency-aware tasks list.
+
+=Conlexis= aims to create a dependency-aware tasks list with the following goals:
+
+- Quick-entry
+- Uniform entries
+- /Depends on/ and /Depended upon by/ backlog access
+- Generate Topologically Sorted List of tasks
